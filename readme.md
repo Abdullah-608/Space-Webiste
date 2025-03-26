@@ -10,7 +10,7 @@
 
 Space Explorer is an immersive, interactive web experience that takes users on a journey through the cosmos. With stunning space-themed visuals, animations, and a responsive design, this project showcases the beauty and wonder of space exploration.
 
-![Space Explorer Preview](assets/images/preview.png)
+https://abdullah-608.github.io/Space-Webiste/
 
 ## ✨ Features
 
